@@ -1,0 +1,28 @@
+/*#bloco01, #bloco02, #bloco03{
+
+    width: 900px;
+    height: 900px;
+    padding: 30px;
+    color:white;
+    float:left;
+    font:bold 2em/8 sans-serif;
+    text-align: center;
+
+}*/
+
+#bloco01{
+    font-size: 3em;
+    color:darkblue;
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 5px 3px 9px black;
+    font-weight: bolder;
+
+}
+
+/*#bloco02{
+    background: red;                
+}
+
+#bloco03{
+    background: blue;
+}*/
