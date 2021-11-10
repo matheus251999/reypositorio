@@ -1,0 +1,113 @@
+
+            <DIV>
+                <h1>Titulo <span>2</span></h1>
+
+                <P> <em>Lorem ipsum dolor sit amet</em>, consectetur
+                adipisicing elit. Officia, illum dolore? Modi 
+                esse eveniet similique ex magnam officia 
+                aspernatur reprehenderit hic! Repellat laborum 
+                inventore, iusto ullam nemo tenetur sapiente 
+                architecto. </P>
+
+                    <ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul>
+
+                   <!--<ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul> -->
+
+                    <h1 id="hehexd">Titulo 2</h1>
+
+                <P> <em>Lorem ipsum dolor sit amet</em>, consectetur
+                adipisicing elit. Officia, illum dolore? Modi 
+                esse eveniet similique ex magnam officia 
+                aspernatur reprehenderit hic! Repellat laborum 
+                inventore, iusto ullam nemo tenetur sapiente 
+                architecto. </P>
+
+                    <ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul>
+                    <h1><a href="#1">Titulo 2</a></h1>
+
+                <P class="pragra"> <em>Lorem ipsum dolor sit amet</em>, consectetur
+                adipisicing elit. Officia, illum dolore? Modi 
+                esse eveniet similique ex magnam officia 
+                aspernatur reprehenderit hic! Repellat laborum 
+                inventore, iusto ullam nemo tenetur sapiente 
+                architecto. </P>
+
+                    <ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul>
+                    <h1>Titulo 2</h1>
+
+                <P class="pragra"> <em>Lorem ipsum dolor sit amet</em>, consectetur
+                adipisicing elit. Officia, illum dolore? Modi 
+                esse eveniet similique ex magnam officia 
+                aspernatur reprehenderit hic! Repellat laborum 
+                inventore, iusto ullam nemo tenetur sapiente 
+                architecto. </P>
+
+                    <ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul>
+                    <h1>Titulo 2</h1>
+
+                <P> <em>Lorem ipsum dolor sit amet</em>, consectetur
+                adipisicing elit. Officia, illum dolore? Modi 
+                esse eveniet similique ex magnam officia 
+                aspernatur reprehenderit hic! Repellat laborum 
+                inventore, iusto ullam nemo tenetur sapiente 
+                architecto. </P>
+
+                    <ul>
+
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                        <li>item 4</li>
+
+                    </ul>
+
+
+            </DIV>
+
+            <DIV>
+                <h2 id="godgod"> TÍTULO 3 </h2>
+
+                <p> <u>Lorem ipsum dolor sit amet</u>, consectetur
+                    adipisicing elit. <span style="text-decoration: overline;">Officia, illum dolore? Modi 
+                    esse eveniet similique ex magnam officia </span> 
+                    aspernatur reprehenderit hic! Repellat laborum 
+                    inventore, iusto ullam nemo tenetur sapiente 
+                    architecto. </p>
+
+                    <a href="#sec1"><img src="image/imagem.jpg" title= "aguiona" alt="uma aguia olhando pro lado" width="500" height="300"></a>
+            </DIV>
